@@ -1,4 +1,4 @@
-##🧠 Checkpoint 02 — Parte 01
+##🧠 Checkpoint 02 — Parte 01##
 Redes Neurais com Keras (Classificação + Regressão)
 
 Este projeto faz parte do Checkpoint 02 da disciplina Disruptive Architectures: IoT, IoB e Generative AI.
