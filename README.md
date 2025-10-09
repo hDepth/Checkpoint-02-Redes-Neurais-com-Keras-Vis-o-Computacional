@@ -4,7 +4,7 @@ Redes Neurais com Keras (Classificação + Regressão)
 Este projeto faz parte do Checkpoint 02 da disciplina Disruptive Architectures: IoT, IoB e Generative AI.
 O objetivo desta etapa é treinar redes neurais com Keras, comparar com modelos clássicos do Scikit-learn e analisar os resultados obtidos.
 
-##📁 Estrutura da Pasta
+## 📁 Estrutura da Pasta
 parte01-redes-neurais/  
 ├── classificacao_wine.ipynb        # Exercício 1 - Classificação Multiclasse  
 ├── regressao_california.ipynb      # Exercício 2 - Regressão  
